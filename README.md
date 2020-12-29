@@ -24,45 +24,39 @@ _______________________________
 
 # PreRequisite:
 ```python
-        ~ pip install requests
+        ~ pip install phonenumbers
         ~ pip install plyer
-        ~ pip install pypiwin32
-        ~ BASE URL = "https://newsapi.org/v2/top-headlines?sources=the-times-of-india"
-        ~ API KEY = "0864a52124954666bb3e1fd0f7fbb1e6"
 ```             
 
 # Module Needed:
 ```python 
-          import requests
-          import json
-          import time
+          import phonenumbers
+          import os
           from plyer import notification
-          from win32com.client import Dispatch
-```
-# Use of **`pypiwin32`** Module:
-```python
-       1. Work on Windows Platform
-       2. Converts Text to Speech
+          from phonenumbers import geocoder
+          from phonenumbers import carrier
 ```
 # Use of **`plyer`** Module:
 ```python
        1. Used as a Desktop Notifier. 
        2. It produces a Notification Message in form of a POP-UP Message on Desktop.
 ```
-# Use of **`json`** Module:
+# Use of **`os`** Module:
 ```python
-       1. Used to work with JSON Data. 
-       2. If you have a JSON string, you can parse it by using the json.loads() method.
+       1. This Module in python provides functions for interacting with the Operating System. 
+       2. It produces a Notification Message in form of a POP-UP Message on Desktop.
 ```
-# Use of **`requests`** Module:
+# Use of **`phonenumbers`** Module:
 ```python
-       1. Use to send all kinds of HTTP requests. 
-       2. The HTTP request returns a Response Object with all the response data (content, encoding, status, etc).
+       ~ This Module provides numerous features like providing basic information of a phone number, validation of a phone number etc.
 ```
-# Use of **`time`** Module:
+# Use of **`geocoder`** Module:
 ```python
-       1. This Module provides many ways of representing time in code, such as objects, numbers, and strings. 
-       2. It also provides functionality other than representing time, like waiting during code execution and measuring the efficiency of your code.
+       ~ This Module will help you in knowing the Country of the SIM CARD.
+```
+# Use of **`carrier`** Module:
+```python
+       ~ This Module will help you in knowing the Company of the SIM CARD.
 ```
 _________________________________
 
