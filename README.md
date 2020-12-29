@@ -46,10 +46,6 @@ _______________________________
        1. This Module in python provides functions for interacting with the Operating System. 
        2. It produces a Notification Message in form of a POP-UP Message on Desktop.
 ```
-# Use of **`phonenumbers`** Module:
-```python
-       ~ This Module provides numerous features like providing basic information of a phone number, validation of a phone number etc.
-```
 # Use of **`geocoder`** Module:
 ```python
        ~ This Module will help you in knowing the Country of the SIM CARD.
@@ -57,6 +53,10 @@ _______________________________
 # Use of **`carrier`** Module:
 ```python
        ~ This Module will help you in knowing the Company of the SIM CARD.
+```
+# Use of **`phonenumbers`** Module:
+```python
+       ~ This Module provides numerous features like providing basic information of a phone number, validation of a phone number etc.
 ```
 _________________________________
 
