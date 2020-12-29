@@ -68,7 +68,7 @@ _________________________________
 
 <br/>
 <p align="center">
-<img src="https://badges.pufler.dev/visits/Iamtripathisatyam/Daily_News_Notification?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
-<img src="https://badges.pufler.dev/updated/Iamtripathisatyam/Daily_News_Notification?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
-<img src="https://badges.pufler.dev/created/Iamtripathisatyam/Daily_News_Notification?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
+<img src="https://badges.pufler.dev/visits/Iamtripathisatyam/Phone_Number_Info?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
+<img src="https://badges.pufler.dev/updated/Iamtripathisatyam/Phone_Number_Info?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
+<img src="https://badges.pufler.dev/created/Iamtripathisatyam/Phone_Number_Info?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 </p>
