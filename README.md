@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://icons.iconarchive.com/icons/custom-icon-design/flatastic-2/128/memory-card-icon.png" />
+<img src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/128/Phone-icon.png" />
 </p>
 
 <p align="center">
