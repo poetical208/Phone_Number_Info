@@ -19,13 +19,13 @@
 
 ### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Phone_Number_Info/blob/main/Phone_Number_Info.py"><img src="https://img.shields.io/badge/-PHONE NUMBERS INFO USING PYTHON-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
   
-# Prerequisite:
+### Prerequisite:
 ```python
         ~ pip install phonenumbers
         ~ pip install plyer
 ```             
 
-# Module needed:
+### Module needed:
 ```python 
           import phonenumbers
           import os
