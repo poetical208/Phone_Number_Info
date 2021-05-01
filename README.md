@@ -4,7 +4,7 @@
 ![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/Phone_Number_Info?color=red&label=Lines%20of%20Code)</br>
 
 <p align="center">
-<img src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/128/Phone-icon.png" />
+<img src="https://cutt.ly/kblvsVv" />
 </p>
 
 <p align="center">
