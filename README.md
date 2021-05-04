@@ -49,8 +49,9 @@ _________________________________
 
 ### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Phone_Number_Info">Made with <img src="https://cutt.ly/lbllkDi" width="20px"> in India</a><h3/>
 
-<br/>
 <p align="center">
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/Phone_Number_Info?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 <img src="https://badges.pufler.dev/created/Iamtripathisatyam/Phone_Number_Info?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 </p>
+
+<p align="center">Copyright &copy; 2021 Satyam Tripathi</p>
