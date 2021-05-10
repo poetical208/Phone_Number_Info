@@ -45,8 +45,6 @@
    - This Module will help you in knowing the Company of the SIM CARD.
 ### Use of `phonenumbers` module:
    - This Module provides numerous features like providing basic information of a phone number, validation of a phone number etc.
-_________________________________
+___________________________________
 
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Phone_Number_Info">Made with <img src="https://cutt.ly/lbllkDi" width="20px"> in India</a><h3/>
-
-<p align="center">Copyright &copy; 2021 Satyam Tripathi</p>
+<p>&copy; 2021 Satyam Tripathi</p>
