@@ -17,7 +17,7 @@
   <img src="https://profile-counter.glitch.me/{Phone_Number_Info}/count.svg" alt=Iamtripathisatyam />
 </p>
 
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Phone_Number_Info/blob/main/Phone_Number_Info.py"><img src="https://img.shields.io/badge/-PHONE NUMBERS INFO USING PYTHON-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
+### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Phone_Number_Info/blob/main/Phone_Number_Info.py"><img src="https://img.shields.io/badge/-PHONE NUMBERS INFO-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
   
 ### Prerequisite:
 ```python
